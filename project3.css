@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(202, 198, 198);
+}
+
+.box-one {
+  margin: 50px 500px 500px;
+  border-radius: 20px;
+  background-color: white;
+  height: 520px;
+  width: 320px;
+}
+
+.image {
+  border-radius: 2%;
+  padding-bottom: 20px;
+}
+
+.button {
+  color: green;
+  text-align: center;
+  border-radius: 20px;
+  font-style: italic;
+ margin-left: 10px;
+ margin-bottom: 10px;
+  padding: 5px ;
+  border-color: rgb(13, 224, 13);
+}
+
+.headline{
+    text-align: center;
+    font-size:large;
+    padding-bottom: 10px;
+}
+
+.detail{
+    text-align: center;
+    color: grey;
+    padding-bottom: 20px;
+}
+
+.link{
+    color: blue;
+    
+    padding-left: 15px;
+    text-decoration: none;
+}

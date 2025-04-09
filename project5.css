@@ -1,0 +1,128 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(203, 209, 216);
+}
+
+.container{
+
+    
+   
+   margin: 150px; 
+   padding-left: 100px;
+   padding-top: 40px;
+   padding-bottom: 40px;
+   font-size: 20px;
+ border-collapse: collapse;
+ box-shadow:3px 2px 2px 2px  #bbb;
+ border-radius: 20px;
+ background-color: white;
+  
+
+   
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+    
+
+
+}
+
+h1{
+    
+    font-size: 30px;
+   
+}
+
+#four{
+    margin-right: 90px;
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+
+
+ td{
+    border-bottom: 1px solid #bbb;
+   
+    padding-top: 10px;
+    padding-bottom: 10px;  
+    color: gray;
+    
+}
+
+.sp{
+    display:inline-block;
+    border-radius: 50%;
+    background-color: #bbb;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 30px;
+}
+
+.main-area{
+    font-size: 20px;
+  
+}
+
+table{
+    width: 90%;
+    height: 250px;
+   
+ 
+    
+    
+}
+
+th{
+    text-align: left;
+    border-bottom: 1px solid #bbb;
+
+}
+ 
+
+#one{
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 2px 15px;
+    border-color: green;
+    color: green;
+}
+
+#two{
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 2px 15px;
+    border-color: blue;
+    color: blue;
+}
+
+#three{
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 2px 13px;
+    border-color: #bbb;
+    color: #bbb;
+}
+
+
+
+
+
+
+
+
+

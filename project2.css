@@ -1,0 +1,112 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap');
+
+body{
+    font-family: 'Atikinson' , sans-serif;
+}
+.price{
+    padding-right: 10px;
+    
+}
+
+.one{
+   
+    
+    height: 420px;
+   
+    
+}
+
+.two{
+    
+    width: 300px;
+    height: 420px;
+    padding-left: 30px;
+    background-color: rgb(245, 252, 216);
+    
+   
+}
+
+.container{
+    display: flex;
+    justify-content:center;
+    margin: 100px 300px 100px;
+    align-items:center;
+ 
+    
+    
+   
+    
+}
+
+
+
+.image img{
+    width: 300px;
+    height: 420px;
+}
+
+.text_area{
+    text-align: left;
+    color: gray;
+    letter-spacing: 5px;
+}
+
+.text_area2{
+    text-align: left;
+}
+
+.text_area3{
+    text-align: left;
+    color: gray;
+    padding-bottom: 10px;
+}
+
+.price{
+    text-align: left;
+    padding-bottom: 20px;
+}
+.price1{
+    color: rgb(0, 204, 129);
+ font-size: 30px;  
+ padding-right: 20px;
+ text-shadow: 1px 1px 1px rgb(0, 204, 129);
+ 
+}
+
+.price2{
+    color: gray;
+    font-size: 15px;
+    
+}
+.button{
+    text-align: left;
+    
+
+}
+
+.button button{
+    
+    background-color: rgb(0, 204, 129);
+    font-size: 30px;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 30px;
+    color:aliceblue;
+    border-color: aliceblue;
+
+    
+
+}
+
+i{
+    padding-top: 10px;
+    padding-right: 10px;
+    color:antiquewhite;
+    padding-bottom: 10px;
+    
+}
+
